@@ -13,6 +13,6 @@
 
 <h3 align="left">Public repo statistics:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnseth97&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_title=true" alt="johnseth97" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnseth97&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_title=true" alt="johnseth97&v=1.2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnseth97&show_icons=true&locale=en&theme=tokyonight&hide_title=true&hide_rank=true&show=prs_merged_percentage" alt="johnseth97" /></p>
